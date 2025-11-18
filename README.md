@@ -35,7 +35,7 @@ A aplicação permite:
 ---
 
 ## 📁 Estrutura do Projeto
-
+```
 projeto-listatarefas_spring_vue_cors/
 │
 ├── backend/
@@ -56,7 +56,7 @@ projeto-listatarefas_spring_vue_cors/
 │ └── package.json
 │
 └── README.md
-
+```
 ---
 
 ## ⚙️ Como Rodar o Projeto
